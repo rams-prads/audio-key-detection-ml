@@ -17,10 +17,10 @@ __pycache__/
 
 *.wav
 
-data/
+
 
 labels/
 
-models/
+
 
 .DS_Store
